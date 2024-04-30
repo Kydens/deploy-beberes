@@ -11,11 +11,7 @@
       </div>
     </article>
     <article class="gap-[12px] flex flex-col xl:flex-row">
-<<<<<<< HEAD
       <NuxtImg src="/svg/Map.svg" alt="Map Jangkauan" loading="lazy" />
-=======
-      <img src="/svg/Map.svg" alt="" loading="lazy" />
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
       <div
         class="bg-30-5 p-4 w-full h-fit flex flex-col gap-[24px] rounded-lg shadow-lg"
       >

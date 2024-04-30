@@ -19,12 +19,8 @@
       class="overflow-hidden"
       indicators
     >
-<<<<<<< HEAD
       <NuxtImg
         loading="lazy"
-=======
-      <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
         :src="item"
         class="w-full h-[250px] md:h-[588px] xl:h-[662px]"
         draggable="false"

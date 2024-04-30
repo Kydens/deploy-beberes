@@ -7,11 +7,7 @@
       <article
         class="w-full h-[150px] md:h-[250px] lg:h-[60vh] flex flex-col lg:w-4/6 px-0"
       >
-<<<<<<< HEAD
         <NuxtImg
-=======
-        <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
           loading="lazy"
           src="/images/bgAbout.jpg"
           alt="About Us"
@@ -132,22 +128,14 @@
         <div class="visi">
           <div class="ballComponent h-fit">
             <!-- svg large -->
-<<<<<<< HEAD
             <NuxtImg
-=======
-            <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
               src="/svg/visiL.svg"
               alt="Visi"
               class="hidden md:block"
               loading="lazy"
             />
             <!-- svg small -->
-<<<<<<< HEAD
             <NuxtImg
-=======
-            <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
               src="/svg/visi.svg"
               alt="Visi"
               class="block md:hidden"
@@ -168,22 +156,14 @@
         <div class="misi">
           <div class="ballComponent h-fit">
             <!-- svg large -->
-<<<<<<< HEAD
             <NuxtImg
-=======
-            <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
               src="/svg/misiL.svg"
               alt="Misi"
               class="hidden md:block"
               loading="lazy"
             />
             <!-- svg small -->
-<<<<<<< HEAD
             <NuxtImg
-=======
-            <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
               src="/svg/misi.svg"
               alt="Misi"
               class="block md:hidden"
@@ -216,11 +196,7 @@
       </div>
       <!-- Images -->
       <article class="w-full h-fit hidden lg:flex flex-col lg:w-1/2 px-0 z-10">
-<<<<<<< HEAD
         <NuxtImg
-=======
-        <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
           loading="lazy"
           src="/images/bgVisi.jpg"
           alt="About Us"
@@ -248,21 +224,13 @@
 
       <!-- Alur -->
       <div class="Alur">
-<<<<<<< HEAD
         <NuxtImg
-=======
-        <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
           src="/svg/Alur.svg"
           alt="alur"
           class="hidden md:block"
           loading="lazy"
         />
-<<<<<<< HEAD
         <NuxtImg
-=======
-        <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
           src="/svg/AlurM.svg"
           alt="alur"
           class="block md:hidden"

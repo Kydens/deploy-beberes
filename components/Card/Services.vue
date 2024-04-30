@@ -1,7 +1,6 @@
 <template>
   <div class="fokus-bidang w-[207px] h-fit xl:w-[250px]">
     <div class="w-fit h-fit relative -translate-x-1/2 left-1/2 top-[24px]">
-<<<<<<< HEAD
       <NuxtImg
         loading="lazy"
         :src="images"
@@ -9,9 +8,6 @@
         width="75"
         class="md:h-[100px] md:w-[110px]"
       />
-=======
-      <img :src="images" alt="" width="75" class="md:h-[100px] md:w-[110px]" />
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
     </div>
     <div
       :class="`container-card w-full h-[235px] px-[12px] pt-[27px] pb-[12px] ${styling} rounded-lg flex flex-col justify-between shadow-[0_0_8px_0_rgba(0,0,0,0.3)] md:pt-[36px] md:pb-[16px] hover:shadow-[0_2px_24px_0_rgba(45,117,76,0.5)] transition-all duration-300 ease-in-out hover:transition-all hover:duration-300 hover:ease-in-out`"

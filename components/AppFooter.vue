@@ -7,12 +7,8 @@
         <div class="flex flex-col mb-6 md:mb-0 gap-[24px]">
           <div class="alamat w-full md:w-[325px] h-fit flex flex-col gap-2">
             <NuxtLink to="/" class="flex flex-col rtl:space-x-reverse">
-<<<<<<< HEAD
               <NuxtImg
                 loading="lazy"
-=======
-              <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
                 src="/svg/Logo.svg"
                 class="w-[64px] lg:w-[91px]"
                 alt="Logo PT. Beberes Rumah Sejahtera"
@@ -88,28 +84,20 @@
             >
               <li class="mb-2 w-fit">
                 <NuxtLink to="https://www.facebook.com">
-<<<<<<< HEAD
                   <NuxtImg
                     loading="lazy"
                     src="/svg/Facebook.svg"
                     alt="Facebook beberes rumah"
                   />
-=======
-                  <img src="/svg/Facebook.svg" alt="Facebook beberes rumah" />
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
                 </NuxtLink>
               </li>
               <li class="mb-2 w-fit">
                 <NuxtLink to="https://www.instagram.com/nyaman.online">
-<<<<<<< HEAD
                   <NuxtImg
                     loading="lazy"
                     src="/svg/Instagram.svg"
                     alt="Facebook beberes rumah"
                   />
-=======
-                  <img src="/svg/Instagram.svg" alt="Facebook beberes rumah" />
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
                 </NuxtLink>
               </li>
               <li class="mb-2 w-fit">

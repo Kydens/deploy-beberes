@@ -9,16 +9,12 @@
     >
       <NuxtLink :to="`/artikel/${article.id}`" class="flex flex-col gap-[8px]">
         <div class="flex flex-col gap-[12px]">
-<<<<<<< HEAD
           <NuxtImg
             loading="lazy"
             :src="article.image"
             :alt="article.image"
             class="self-center"
           />
-=======
-          <img :src="article.image" :alt="article.image" class="self-center" />
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
         </div>
         <div class="flex flex-col justify-end h-full w-full gap-[12px]">
           <h1

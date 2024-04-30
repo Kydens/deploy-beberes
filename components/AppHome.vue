@@ -6,11 +6,7 @@
     <article
       class="w-full h-[150px] md:h-[250px] lg:h-[60vh] flex flex-col lg:w-4/6 px-0"
     >
-<<<<<<< HEAD
       <NuxtImg
-=======
-      <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
         loading="lazy"
         src="/images/bgAbout.jpg"
         alt="About Us"
@@ -54,11 +50,7 @@
       </button>
       <!-- Icon -->
       <div class="hidden xl:block absolute -right-4 -bottom-4 z-20">
-<<<<<<< HEAD
         <NuxtImg src="/svg/maskot1.svg" alt="maskot" loading="lazy" />
-=======
-        <img src="/svg/maskot1.svg" alt="maskot" loading="lazy" />
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
       </div>
     </article>
 

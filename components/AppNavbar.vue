@@ -7,12 +7,8 @@
     >
       <!-- Logo -->
       <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
-<<<<<<< HEAD
         <NuxtImg
           loading="lazy"
-=======
-        <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
           src="/svg/Logo.svg"
           class="w-[75px] md:w-[100px]"
           alt="Logo PT. Beberes Rumah Sejahtera"

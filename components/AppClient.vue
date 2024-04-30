@@ -31,12 +31,8 @@
       />
     </article>
 
-<<<<<<< HEAD
     <NuxtImg
       loading="lazy"
-=======
-    <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
       src="/images/bgClient.png"
       class="hidden lg:block absolute right-0 h-full bottom-0"
     />
