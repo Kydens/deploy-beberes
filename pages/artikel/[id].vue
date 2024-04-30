@@ -49,6 +49,9 @@
         class="w-full h-full text-wrap"
       />
     </section>
+    <section class="w-full lg:w-1/3">
+      <CardListArtikel />
+    </section>
   </article>
 </template>
 
@@ -66,8 +69,4 @@ onMounted(async () => {
   article.value = data;
   console.log(data);
 });
-
-// definePageMeta({
-//   layout: "default",
-// });
 </script>
