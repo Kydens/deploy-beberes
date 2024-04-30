@@ -25,21 +25,21 @@
           styling="bg-30-5"
         />
         <CardServices
-          href="/services/design"
+          href="/pelayanan-kami/design"
           images="/images/Design.png"
           title="Design"
           desc="Penyediaan jasa design konstruksi secara konvensional sesuai kebutuhan pengguna"
           styling="bg-60-3"
         />
         <CardServices
-          href="/services/bangun"
+          href="/pelayanan-kami/bangun"
           images="/images/Bangun.png"
           title="Bangun"
           desc="Penyediaan jasa membangun renovasi secara konvensional atau offline"
           styling="bg-30-5"
         />
         <CardServices
-          href="/services/renovasi"
+          href="/pelayanan-kami/renovasi"
           images="/images/Renovasi.png"
           title="Renovasi"
           desc="Penyediaan jasa membangun konstruksi secara konvensional atau offline"
