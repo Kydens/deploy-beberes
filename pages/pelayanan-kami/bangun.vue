@@ -25,12 +25,8 @@
             :ui="{ item: 'basis-full' }"
             class="overflow-hidden rounded-lg shadow-[0_0_6px_0_rgba(0,0,0,0.3)]"
           >
-<<<<<<< HEAD
             <NuxtImg
               loading="lazy"
-=======
-            <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
               :src="item"
               class="w-full h-[200px] md:h-[280px] xl:h-[380px] object-cover"
               draggable="false"
@@ -66,12 +62,8 @@
           Portofolio Bangun
         </article>
         <article class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
-<<<<<<< HEAD
           <NuxtImg
             loading="lazy"
-=======
-          <img
->>>>>>> 65306b518abd7764ee42d3d828ce751a831d08a2
             :src="item"
             alt="portofolio"
             v-for="item in items"
