@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --c-background: #fffff0;
+  --c-text: #143047;
+  --c-60-1: #d3e5db;
+  --c-60-3: #8fbea3;
+  --c-60-4: #76ba93;
+  --c-60-5: #65af85;
+  --c-60-6: #4d9e70;
+  --c-60-7: #2d754c;
+
+  --fsize-HeadingTitleL: 35px;
+  --fsize-HeadingTitleM: 30px;
+
+  --fsize-TitleL: 22px;
+  --fsize-TitleM: 16px;
+  --fsize-TitleS: 14px;
+
+  --fsize-LabelL: 14px;
+  --fsize-LabelM: 12px;
+  --fsize-LabelS: 11px;
+
+  --fsize-bodyL: 16px;
+  --fsize-bodyM: 14px;
+  --fsize-bodyS: 12px;
+
+  background-color: var(--c-background);
+  color: var(--c-text);
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
