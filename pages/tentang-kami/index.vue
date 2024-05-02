@@ -1,3 +1,4 @@
+import { AlurLarge } from '#build/components';
 <template>
   <div class="tentang-kami">
     <section
@@ -125,23 +126,8 @@
       <!-- Visi Misi -->
       <div class="visi-misi lg:w-1/2 flex flex-col gap-[12px] z-10">
         <!-- Visi -->
-        <div class="visi">
-          <div class="ballComponent h-fit">
-            <!-- svg large -->
-            <NuxtImg
-              src="/svg/visiL.svg"
-              alt="Visi"
-              class="hidden md:block"
-              loading="lazy"
-            />
-            <!-- svg small -->
-            <NuxtImg
-              src="/svg/visi.svg"
-              alt="Visi"
-              class="block md:hidden"
-              loading="lazy"
-            />
-          </div>
+        <div class="visi flex flex-col gap-[8px]">
+          <AccessoriesVisiMisi> Visi </AccessoriesVisiMisi>
           <div class="px-[8px]">
             <p class="text-[14px] md:text-[16px] xl:text-[18px] text-justify">
               Menjadi perusahaan "<i class="font-medium"
@@ -153,23 +139,8 @@
           </div>
         </div>
         <!-- Misi -->
-        <div class="misi">
-          <div class="ballComponent h-fit">
-            <!-- svg large -->
-            <NuxtImg
-              src="/svg/misiL.svg"
-              alt="Misi"
-              class="hidden md:block"
-              loading="lazy"
-            />
-            <!-- svg small -->
-            <NuxtImg
-              src="/svg/misi.svg"
-              alt="Misi"
-              class="block md:hidden"
-              loading="lazy"
-            />
-          </div>
+        <div class="misi flex flex-col gap-[8px]">
+          <AccessoriesVisiMisi> Misi </AccessoriesVisiMisi>
           <div class="px-[24px]">
             <ul>
               <li class="list-disc decoration-60-6">
@@ -223,20 +194,8 @@
       </article>
 
       <!-- Alur -->
-      <div class="Alur">
-        <NuxtImg
-          src="/svg/Alur.svg"
-          alt="alur"
-          class="hidden md:block"
-          loading="lazy"
-        />
-        <NuxtImg
-          src="/svg/AlurM.svg"
-          alt="alur"
-          class="block md:hidden"
-          loading="lazy"
-        />
-      </div>
+      <AlurSmall /> 
+      <AlurLarge />
     </section>
   </div>
 </template>
