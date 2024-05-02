@@ -56,7 +56,7 @@
 
     <!-- Info -->
     <div
-      class="hidden lg:block absolute -top-[50px] left-0 bg-30-4 w-4/6 h-[150px] rounded-r-lg"
+      class="hidden lg:block absolute -top-[50px] left-0 bg-30-4 w-4/6 h-[150px] rounded-r-full"
     >
       <div class="w-full h-full flex items-center px-[48px] gap-[32px]">
         <div class="w-[200px] text-[24px] font-bold">
