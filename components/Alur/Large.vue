@@ -5,12 +5,12 @@
         number="1"
         text="Pelayanan Prima, Fast Respon, Solutif dan Real"
       />
-      <NuxtImg
+      <img
         src="/svg/Line 1.svg"
         class="absolute lg:w-[400px] xl:w-[500px] lg:right-20 xl:right-32 top-5 z-10"
       />
     </div>
-    <NuxtImg
+    <img
       src="/images/person1.png"
       class="absolute lg:right-[15%] xl:left-1/2 lg:-top-4 xl:-top-6 z-30 lg:w-[180px] xl:w-[224px]"
     />
@@ -19,12 +19,12 @@
         number="2"
         text="Tukang dan Tenaga Ahli yang Handal dan Berpengalaman"
       />
-      <NuxtImg
+      <img
         src="/svg/Line 2.svg"
         class="absolute lg:w-[400px] xl:w-[485px] lg:left-16 xl:left-20 top-5 z-10"
       />
     </div>
-    <NuxtImg
+    <img
       src="/images/person2.png"
       width="150"
       height="150"
@@ -36,12 +36,12 @@
         number="3"
         text="Memberikan Konsultasi serta Menangani Keluhan Proposional dan Profesional"
       />
-      <NuxtImg
+      <img
         src="/svg/Line 1.svg"
         class="absolute lg:w-[400px] xl:w-[500px] lg:right-20 xl:right-32 top-5 z-10"
       />
     </div>
-    <NuxtImg
+    <img
       src="/images/person3.png"
       width="200"
       height="200"
@@ -53,7 +53,7 @@
         text="Garansi Kualitas Pekerjaan"
       />
     </div>
-    <NuxtImg
+    <img
       src="/svg/AlurM.svg"
       alt="alur"
       class="block md:hidden"

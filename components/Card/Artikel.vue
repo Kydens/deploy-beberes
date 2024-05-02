@@ -9,7 +9,7 @@
     >
       <NuxtLink :to="`/artikel/${article.id}`" class="flex flex-col gap-[8px]">
         <div class="flex flex-col gap-[12px]">
-          <NuxtImg
+          <img
             loading="lazy"
             :src="article.image"
             :alt="article.image"

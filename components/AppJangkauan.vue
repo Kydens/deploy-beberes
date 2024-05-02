@@ -10,10 +10,15 @@
         Jangkauan Area Kami
       </div>
     </article>
-    <article class="gap-[12px] flex flex-col xl:flex-row">
-      <NuxtImg src="/svg/Map.svg" alt="Map Jangkauan" loading="lazy" />
+    <article class="gap-[12px] flex flex-col sm:flex-row">
+      <img
+        src="/svg/Map.svg"
+        alt="Map Jangkauan"
+        loading="lazy"
+        class="sm:w-1/2 w-full"
+      />
       <div
-        class="bg-30-5 p-4 w-full h-fit flex flex-col gap-[24px] rounded-lg shadow-lg"
+        class="bg-30-5 p-4 w-full sm:w-1/2 h-fit flex flex-col gap-[24px] rounded-lg shadow-lg"
       >
         <p class="text-[14px] md:text-[16px] lg:text-[18px]">
           Penyediaan Jasa Design, Bangun, Renovasi serta Aplikasi Nyaman

@@ -7,7 +7,7 @@
         <div class="flex flex-col mb-6 md:mb-0 gap-[24px]">
           <div class="alamat w-full md:w-[325px] h-fit flex flex-col gap-2">
             <NuxtLink to="/" class="flex flex-col rtl:space-x-reverse">
-              <NuxtImg
+              <img
                 loading="lazy"
                 src="/svg/Logo.svg"
                 class="w-[64px] lg:w-[91px]"
@@ -84,7 +84,7 @@
             >
               <li class="mb-2 w-fit">
                 <NuxtLink to="https://www.facebook.com">
-                  <NuxtImg
+                  <img
                     loading="lazy"
                     src="/svg/Facebook.svg"
                     alt="Facebook beberes rumah"
@@ -93,7 +93,7 @@
               </li>
               <li class="mb-2 w-fit">
                 <NuxtLink to="https://www.instagram.com/nyaman.online">
-                  <NuxtImg
+                  <img
                     loading="lazy"
                     src="/svg/Instagram.svg"
                     alt="Facebook beberes rumah"

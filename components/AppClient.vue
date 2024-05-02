@@ -31,7 +31,7 @@
       />
     </article>
 
-    <NuxtImg
+    <img
       loading="lazy"
       src="/images/bgClient.png"
       class="hidden lg:block absolute right-0 h-full bottom-0"

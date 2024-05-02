@@ -2,7 +2,7 @@
   <div
     class="min-w-[160px] max-w-[250px] h-[90px] flex justify-center px-[14px] py-[7px] z-10"
   >
-    <NuxtImg loading="lazy" :src="src" :alt="alt" />
+    <img loading="lazy" :src="src" :alt="alt" />
   </div>
 </template>
 

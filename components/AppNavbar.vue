@@ -7,7 +7,7 @@
     >
       <!-- Logo -->
       <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
-        <NuxtImg
+        <img
           loading="lazy"
           src="/svg/Logo.svg"
           class="w-[75px] md:w-[100px]"

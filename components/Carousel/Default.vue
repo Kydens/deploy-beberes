@@ -19,7 +19,7 @@
       class="overflow-hidden"
       indicators
     >
-      <NuxtImg
+      <img
         loading="lazy"
         :src="item"
         class="w-full h-[250px] md:h-[588px] xl:h-[662px]"

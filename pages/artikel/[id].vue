@@ -34,7 +34,7 @@
           </div>
         </div>
       </article>
-      <NuxtImg
+      <img
         loading="lazy"
         v-if="article"
         :src="article.image"

@@ -25,7 +25,7 @@
             :ui="{ item: 'basis-full' }"
             class="overflow-hidden rounded-lg shadow-[0_0_6px_0_rgba(0,0,0,0.3)]"
           >
-            <NuxtImg
+            <img
               loading="lazy"
               :src="item"
               class="w-full h-[200px] md:h-[280px] xl:h-[380px] object-cover"
@@ -62,7 +62,7 @@
           Portofolio Bangun
         </article>
         <article class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
-          <NuxtImg
+          <img
             loading="lazy"
             :src="item"
             alt="portofolio"

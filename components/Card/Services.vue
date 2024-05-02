@@ -1,7 +1,7 @@
 <template>
   <div class="fokus-bidang w-[207px] h-fit xl:w-[250px]">
     <div class="w-fit h-fit relative -translate-x-1/2 left-1/2 top-[24px]">
-      <NuxtImg
+      <img
         loading="lazy"
         :src="images"
         alt=""

@@ -8,7 +8,7 @@ import { AlurLarge } from '#build/components';
       <article
         class="w-full h-[150px] md:h-[250px] lg:h-[60vh] flex flex-col lg:w-4/6 px-0"
       >
-        <NuxtImg
+        <img
           loading="lazy"
           src="/images/bgAbout.jpg"
           alt="About Us"
@@ -167,7 +167,7 @@ import { AlurLarge } from '#build/components';
       </div>
       <!-- Images -->
       <article class="w-full h-fit hidden lg:flex flex-col lg:w-1/2 px-0 z-10">
-        <NuxtImg
+        <img
           loading="lazy"
           src="/images/bgVisi.jpg"
           alt="About Us"

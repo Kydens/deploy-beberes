@@ -55,7 +55,7 @@
         Portofolio
       </article>
       <article class="flex flex-wrap justify-center mx-auto">
-        <NuxtImg
+        <img
           loading="lazy"
           v-for="item in items"
           :key="item"
