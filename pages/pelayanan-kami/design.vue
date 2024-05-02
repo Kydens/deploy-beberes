@@ -50,7 +50,10 @@
       </div>
       <div></div>
     </section>
-    <section id="porto" class="flex flex-col items-center">
+    <section
+      id="porto"
+      class="flex flex-col items-center px-[49px] py-[32px] md:px-[88px] md:py-[64px] lg:px-[102px] lg:py-[64px]"
+    >
       <div class="w-full h-full flex flex-col items-center gap-[24px]">
         <!-- Title -->
         <article
