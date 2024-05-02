@@ -65,21 +65,23 @@
         <div class="flex gap-[24px]">
           <div class="flex flex-col gap-[8px]">
             <!-- email -->
-            <div class="flex flex-row items-center gap-[4px] max-w-[200px]">
+            <div class="flex flex-row items-center gap-[8px] max-w-[200px]">
               <Icon name="mdi:email" width="32" height="32" />
-              <p>email@email.com</p>
+              <p class="font-semibold">email@email.com</p>
             </div>
             <!-- telp -->
-            <div class="flex flex-row items-center gap-[4px] max-w-[300px]">
+            <div class="flex flex-row items-center gap-[8px] max-w-[300px]">
               <Icon name="mdi:call" width="32" height="32" />
-              <p>081377787378</p>
+              <p class="font-semibold">081377787378</p>
             </div>
           </div>
           <!-- alamat -->
           <div class="flex flex-row gap-[8px]">
             <Icon name="mdi:office-building-marker" width="48" height="48" />
             <div class="max-w-[200px]">
-              <p>Jl. Ir. Hj. Juanda 3 No. 8 Jakarta Pusat, 10120 DKI Jakarta</p>
+              <p class="font-semibold">
+                Jl. Ir. Hj. Juanda 3 No. 8 Jakarta Pusat, 10120 DKI Jakarta
+              </p>
             </div>
           </div>
         </div>
