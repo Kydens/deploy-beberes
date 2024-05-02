@@ -44,11 +44,11 @@ import { AlurLarge } from '#build/components';
 
     <section class="bg-[url('/images/bgHorizontal.jpg')] bg-cover bg-center">
       <div
-        class="bg-black/70 w-full h-full px-[32px] py-[24px] flex flex-col gap-[12px] md:flex-row"
+        class="bg-black/70 w-full h-full px-[32px] py-[24px] flex flex-col gap-[24px] md:flex-row"
       >
         <!-- Text1 -->
         <article
-          class="backdrop:blur-lg bg-white/30 gap-[12px] w-full md:max-w-[500px] h-full md:h-[320px] px-[32px] py-[16px] md:py-[48px] flex flex-col items-center rounded-lg shadow-[0_0_6px_0_rgba(0,0,0,0.5)]"
+          class="backdrop-filter backdrop-blur-xl bg-gray-400 bg-opacity-10 gap-[12px] w-full md:max-w-[500px] h-full md:h-[320px] px-[32px] py-[16px] md:py-[48px] flex flex-col items-center rounded-lg shadow-[0_0_6px_0_rgba(0,0,0,0.5)]"
         >
           <Icon
             name="mdi:worker"
@@ -72,7 +72,7 @@ import { AlurLarge } from '#build/components';
 
         <!-- Text2 -->
         <article
-          class="backdrop:blur-lg bg-white/30 gap-[12px] w-full md:max-w-[500px] h-full md:h-[320px] px-[32px] py-[16px] md:py-[48px] flex flex-col items-center rounded-lg shadow-[0_0_6px_0_rgba(0,0,0,0.5)]"
+          class="backdrop-filter backdrop-blur-xl bg-gray-400 bg-opacity-10 gap-[12px] w-full md:max-w-[500px] h-full md:h-[320px] px-[32px] py-[16px] md:py-[48px] flex flex-col items-center rounded-lg shadow-[0_0_6px_0_rgba(0,0,0,0.5)]"
         >
           <Icon
             name="bxs:building"
@@ -96,7 +96,7 @@ import { AlurLarge } from '#build/components';
 
         <!-- Text3 -->
         <article
-          class="backdrop:blur-lg bg-white/30 gap-[12px] w-full md:max-w-[500px] h-full md:h-[320px] px-[32px] py-[16px] md:py-[48px] flex flex-col items-center rounded-lg shadow-[0_0_6px_0_rgba(0,0,0,0.5)]"
+          class="backdrop-filter backdrop-blur-xl bg-gray-400 bg-opacity-10 gap-[12px] w-full md:max-w-[500px] h-full md:h-[320px] px-[32px] py-[16px] md:py-[48px] flex flex-col items-center rounded-lg shadow-[0_0_6px_0_rgba(0,0,0,0.5)]"
         >
           <Icon
             name="ri:customer-service-2-fill"
@@ -194,7 +194,7 @@ import { AlurLarge } from '#build/components';
       </article>
 
       <!-- Alur -->
-      <AlurSmall /> 
+      <AlurSmall />
       <AlurLarge />
     </section>
   </div>
