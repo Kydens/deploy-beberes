@@ -122,7 +122,7 @@
           >© 20xx
           <NuxtLink
             to="/"
-            class="hover:pl-2 hover:text-60-7 duration-500 ease-in-out transition-all"
+            class="hover:text-60-7 duration-500 ease-in-out transition-all"
             >PT. Beberes Rumah Sejahtera</NuxtLink
           >. All Rights Reserved.
         </span>
